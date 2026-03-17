@@ -1,6 +1,8 @@
 # Student Registration System
-
 A responsive Student Registration System built using HTML, CSS, and JavaScript.
+
+## Github Repository link
+https://github.com/Ankita-Das1111/STUDENT-REGISTRATION-SYSTEM
 
 ## Project Overview
 This project allows users to register and manage student records. Users can add, edit, and delete student information. The data is stored using browser Local Storage so it remains even after refreshing the page.
